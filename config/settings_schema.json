@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Dawn",
+    "theme_name": "BraTheme",
     "theme_version": "14.0.0",
-    "theme_author": "Shopify",
-    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_author": "Stephano Olhier",
+    "theme_documentation_url": "https://bratheme.com.br/",
+    "theme_support_url": "https://bratheme.com.br/suporte"
   },
   {
     "name": "t:settings_schema.logo.name",
